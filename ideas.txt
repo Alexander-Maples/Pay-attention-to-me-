@@ -1,0 +1,33 @@
+_________________________________________________________|
+|What can i do? (enter bellow)                            _________________________________________________________|
+|Whatever you are able to do :)
+|
+|
+|
+|_________________________________________________________|
+|What is this about? (enter bellow)                       _________________________________________________________|
+|This is a project to simulate people who need attention
+|and or help people who do
+|
+|
+|
+|_________________________________________________________|
+|What needs done? (enter bellow)                          |
+|                                                         |
+|	*****************************************             |
+|	* Key:                                  *             |
+|	* # : Needs done soon as posible        *             |
+|	* ## : Needs done soon                  *             |
+|	* ### : whenever posible                *             |
+|	*                                       *             |
+|	* [name here] : 'name' is working on it *             |
+|	*****************************************             |
+_________________________________________________________|
+|### Come up with more ideas for feedback lines
+|### If we get enough ideas, use more than 10 feedback lines preferably at least 20
+|
+|
+|
+|
+|
+|_________________________________________________________|
